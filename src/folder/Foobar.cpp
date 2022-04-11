@@ -1,3 +1,5 @@
 #include "Foobar.h"
 
-void Foobar::fn() {}
+int Foobar::fn() {
+  return 0;
+}

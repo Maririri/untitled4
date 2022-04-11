@@ -1,8 +1,8 @@
 #ifndef UNTITLED4_SRC_FOLDER_FOOBAR_H
 #define UNTITLED4_SRC_FOLDER_FOOBAR_H
 
-class Foobar {
-  void fn();
+struct Foobar {
+  int fn();
 };
 
 #endif//UNTITLED4_SRC_FOLDER_FOOBAR_H
