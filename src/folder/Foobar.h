@@ -2,6 +2,7 @@
 #define UNTITLED4_SRC_FOLDER_FOOBAR_H
 
 class Foobar {
+  void fn();
 };
 
 #endif//UNTITLED4_SRC_FOLDER_FOOBAR_H
