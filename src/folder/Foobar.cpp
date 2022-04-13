@@ -1,5 +1,5 @@
 #include "Foobar.h"
 
 int Foobar::fn() {
-  return 42;
+  return 24;
 }
